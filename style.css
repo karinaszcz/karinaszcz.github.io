@@ -64,13 +64,16 @@ picture {
 
 }
 img{
-    max-width: 80%;
+   
+    width: 250px;
+    height: 250px;
+    padding: 1rem;
 }
 
 footer{
     
     background: rgb(201, 155, 155);
-    color: azure;
+    color: rgb(15, 15, 15);
     padding:0 1.5rem;
     overflow: auto;
 }
